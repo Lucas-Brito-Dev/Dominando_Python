@@ -1,8 +1,10 @@
 🐍 Python Learning Hub
 Bem-vindo ao Python Learning Hub, um repositório criado com paixão para compartilhar conhecimento sobre Python, com foco em análise de dados, automações e inteligência artificial. Aqui você encontrará anotações, exemplos práticos e explicações detalhadas sobre tópicos essenciais da linguagem, organizados em Jupyter Notebooks. 🚀
+
 🎯 Objetivo
 Este repositório é um espaço para aprendizado colaborativo e crescimento técnico. Meu objetivo é explorar o poder do Python e ajudar outros desenvolvedores a dominarem conceitos fundamentais e avançados, aplicando-os em projetos reais. Seja você um iniciante ou um profissional experiente, há algo aqui para inspirar e ensinar! 🌟
 📚 Conteúdos Abordados
+
 Os arquivos neste diretório cobrem uma ampla gama de tópicos, perfeitos para quem quer mergulhar no universo do Python. Aqui está uma visão geral do que você encontrará:
 
 📋 Comprehensions (comprehensions.ipynb): Aprenda a criar listas, dicionários e conjuntos de forma concisa e elegante em uma única linha, ideal para manipulação de dados.
