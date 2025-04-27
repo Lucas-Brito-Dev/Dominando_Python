@@ -8,11 +8,17 @@ Este repositório é um espaço para aprendizado colaborativo e crescimento téc
 Os arquivos neste diretório cobrem uma ampla gama de tópicos, perfeitos para quem quer mergulhar no universo do Python. Aqui está uma visão geral do que você encontrará:
 
 📋 Comprehensions (comprehensions.ipynb): Aprenda a criar listas, dicionários e conjuntos de forma concisa e elegante em uma única linha, ideal para manipulação de dados.
+
 🔄 Funções map() e filter() (funcao_map.ipynb, funcao_filter.ipynb): Domine essas funções built-in para transformar e filtrar dados com eficiência, otimizando pipelines de dados.
+
 ⚡️ Funções Lambda (lambdas.ipynb): Descubra como usar funções anônimas para escrever códigos mais práticos e diretos, perfeitas para automações.
+
 🛡️ Tratamento de Erros (try/except) (try_except.ipynb, tipos_erros.ipynb): Entenda como lidar com exceções (como NameError, ZeroDivisionError) e criar scripts robustos.
+
 🏗️ Programação Orientada a Objetos (POO) (introducao_poo.ipynb): Explore classes, objetos, métodos e os 4 pilares da POO (abstração, encapsulamento, herança e polimorfismo).
+
 🔃 Iterators e Generators (iterators.ipynb, generators.ipynb): Otimize o uso de memória com iteradores e geradores, essenciais para grandes datasets em ciência de dados.
+
 📅 Módulo datetime (datetime.ipynb): Manipule datas e horas como um profissional, desde cálculos até formatação para relatórios e análises temporais.
 
 🚀 Como Usar Este Repositório
